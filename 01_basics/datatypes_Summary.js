@@ -23,4 +23,21 @@ object {
         }
     }
 }
+##############################################################
+Memory type 
+stack =give you copy
+heap=originl value ka refrenvce milta he 
 */
+let user='vishal@gmail.com';
+let anotheruser =user;
+anotheruser='bala@manve'
+console.log(anotheruser);
+let userone={
+    email:'rajvir',
+    upi:'proxyypl'
+}
+
+let usertwo=userone ;
+usertwo.email='ramjikijay';
+console.log(userone.email);
+console.log(usertwo.email);  
