@@ -9,4 +9,7 @@
 // un named iife
 ((name)=>{
     console.log(`jay ho ${name}`);
-})("vishal")
+})("vishal");
+((bala)=>{
+    console.log(`ram ram ${bala}`);
+})("nikii");
