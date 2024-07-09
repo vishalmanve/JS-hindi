@@ -37,8 +37,8 @@ const  buttons =document.querySelectorAll('.button')
    })
  });
 ```
-##Project-2
-##BMI 
+## Project-2
+## BMI 
 ```javascript
 const form  = document.querySelector('form');
  form.addEventListener('submit', function(e){
@@ -63,7 +63,7 @@ const form  = document.querySelector('form');
 ```
 
 
-##Project3
+## Project3
 ```javascript
 // const clock  = document.querySelector("#center");
 const clock =  document.getElementById('clock');
